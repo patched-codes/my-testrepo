@@ -6,3 +6,6 @@ def hi():
 
 def hi2():
     print("Hi, everyone!")
+
+def hello2():
+    print("Hello, everyone!")
